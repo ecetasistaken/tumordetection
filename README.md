@@ -4,3 +4,6 @@
 
 
 <img src="Results/labels.jpg" alt="Data Distribution" width="450" height="400">
+
+- The class distribution shows a higher number of glioma samples compared to meningioma and pituitary tumors. Glioma instances dominate the dataset, which could potentially influence the model's predictions.
+- The spatial distribution of bounding box centers and their dimensions (width and height) suggests consistent labeling, which ensures a reliable training dataset for the model.
