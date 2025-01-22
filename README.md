@@ -1,2 +1,1 @@
-# tumordetection
-Brain tumor detection using YOLOv8s. 
+# Brain Tumor Detection Using YOLOv8s 
